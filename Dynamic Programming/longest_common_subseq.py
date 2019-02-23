@@ -2,7 +2,7 @@
 import numpy as np
 
 
-def least_common_subsequence(str1, str2):
+def longest_common_subsequence(str1, str2):
     """
 
     :param str1: 1st string
@@ -51,4 +51,4 @@ str_y = "acbcf"
 # str_y = "aedfhr"
 # str_x = "aggtab"
 # str_y = "gxtxayb"
-print(least_common_subsequence(str_x, str_y))
+print(longest_common_subsequence(str_x, str_y))
