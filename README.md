@@ -7,4 +7,5 @@ Divide and Conquer
 <ul>
 Dynamic Programming
   <li>longest_common_subseq.py: Implementation of Longest Common Subsequence</li>
+  <li>knapsack_prob_dp.py: Implmentation of 0/1 Knapsack Problem using DP</li>
 </ul>
